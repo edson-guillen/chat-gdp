@@ -47,4 +47,4 @@ Este projeto é distribuído sob a licença [MIT](LICENSE).
 
 ## Nossa API key
 
-* -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-
+* NÃO USAR AGORA / -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-
