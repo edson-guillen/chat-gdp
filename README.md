@@ -46,5 +46,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corr
 Este projeto é distribuído sob a licença [MIT](LICENSE).
 
 ## Nossa API key
-
-* NÃO USAR AGORA 
